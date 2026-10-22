@@ -49,3 +49,7 @@ logs/
 # OS specific
 Thumbs.db
 .DS_Store
+
+# Local interview preparation documents
+PROJECT_INTERVIEW_*.md
+
